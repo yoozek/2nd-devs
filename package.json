@@ -37,7 +37,8 @@
     "chat": "bun chat/chat.ts"
   },
   "devDependencies": {
-    "bun-types": "latest"
+    "bun-types": "latest",
+    "node-gyp": "10.0.1"
   },
   "peerDependencies": {
     "typescript": "^5.0.0"
